@@ -1,5 +1,17 @@
 [Welcome to the capital-georgien wiki!](https://github.com/barionleg/capital-georgien/wiki/Home/)
 
+
+# [DOWNLOAD](https://github.com/barionleg/capital-georgien/releases/tag/1.0) ka-GE.rar unzip (unrar) and install via setup.exe on WINDOWS Maschine.
+
+After install restart computer and in language menu you will get 
+
+# **ქარ Georgian (QWERTY) Capital**
+
+https://github.com/barionleg/capital-georgien/releases/tag/1.0
+
+___
+___
+
 [made to create easyer dropcap.js georgien
 ](https://github.com/barionleg/dropcap.js/wiki#:~:text=by%20the%20way%20create%20custom%20Georgien%20keyboard%20for%20WINDOWS)
 
