@@ -1,139 +1,34 @@
-# ci_temp_dond21 Retemplate
+[Welcome to the capital-georgien wiki!](https://github.com/barionleg/capital-georgien/wiki/Home/)
 
-![CiT bARQ](https://github.com/user-attachments/assets/22dafa27-447a-41e3-9465-7c8a9f27b2f6)
+[made to create easyer dropcap.js georgien
+](https://github.com/barionleg/dropcap.js/wiki#:~:text=by%20the%20way%20create%20custom%20Georgien%20keyboard%20for%20WINDOWS)
 
-![image](https://github.com/user-attachments/assets/9988dfbc-a6b3-496d-96d0-51fc66a0aa01)
+... repo will be created ... 
 
+Self keyboard scrift are already made, with little misstakes, but it works well, will publish relase maby later!
 
-
-
-# för dagshub
-
-## Modelkreation: https://www.mlflow.org/docs/latest/model-registry.html#adding-an-mlflow-model-to-the-model-registry
-
-## *data pipline: https://dagshub.com/docs/tutorial/ *
+<img width="792" height="343" alt="GeoIAltGr" src="https://github.com/user-attachments/assets/dd08934e-b40a-4cc6-a9e3-489d04d2405f" />
 
 
-# Resten är 🏛 ett Tem⛩lATE 
+20261022 PARIS 🇫🇷
 
-Kidney-Disease-Classification-MLflow-DVC
-Workflows
-Update config.yaml
-Update secrets.yaml [Optional]
-Update params.yaml
-Update the entity
-Update the configuration manager in src config
-Update the components
-Update the pipeline
-Update the main.py
-Update the dvc.yaml
-app.py
-How to run?
-STEPS:
-Clone the repository
+___
+___
 
-https://github.com/ibanknatoPrad/Kidney-Disease-Classification-Deep-Learning-Project
-STEP 01- Create a conda environment after opening the repository
-conda create -n cnncls python=3.8 -y
-conda activate cnncls
-STEP 02- install the requirements
-pip install -r requirements.txt
-# Finally run the following command
-python app.py
-Now,
+## builded on my mother template showed below, wich are good becase from begining have webpage ...
 
-open up you local host and port
-MLflow
-Documentation
-
-MLflow tutorial
-
-cmd
-mlflow ui
-dagshub
-dagshub
-
-MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/Kidney-Disease-Classification-MLflow-DVC.mlflow MLFLOW_TRACKING_USERNAME=entbappy MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0 python script.py
-
-Run this to export as env variables:
+<img width="673" height="403" alt="image" src="https://github.com/user-attachments/assets/5471d3c0-e859-4442-a048-58c4e6a90895" />
 
 
-export MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/Kidney-Disease-Classification-MLflow-DVC.mlflow
 
-export MLFLOW_TRACKING_USERNAME=entbappy 
+# ci_temp A₽p html [hимик тАбЛи©А℞ мен'Де Лёв]
 
-export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
+Temperature Simulation
+----------------------
+[inde_ხ](https://barionleg.github.io/ci_temp/index.html) by [©urva$TEC](https://github.com/barionleg/CurvasTES/blob/master/index.html)
 
-DVC cmd
-dvc init
-dvc repro
-dvc dag
-About MLflow & DVC
-MLflow
+A small visualization of particles and their reactions to different temperatures created in HTML5 and JavaScript.
 
-Its Production Grade
-Trace all of your expriements
-Logging & taging your model
-DVC
+A [Pen](https://codepen.io/barionleg/pen/ExrBmBg) by [Bankn8II©$A](https://codepen.io/barionleg) on [CodePen](https://codepen.io).
 
-Its very lite weight for POC only
-lite weight expriements tracker
-It can perform Orchestration (Creating Pipelines)
-AWS-CICD-Deployment-with-Github-Actions
-1. Login to AWS console.
-2. Create IAM user for deployment
-#with specific access
-
-1. EC2 access : It is virtual machine
-
-2. ECR: Elastic Container registry to save your docker image in aws
-
-
-#Description: About the deployment
-
-1. Build docker image of the source code
-
-2. Push your docker image to ECR
-
-3. Launch Your EC2 
-
-4. Pull Your image from ECR in EC2
-
-5. Lauch your docker image in EC2
-
-#Policy:
-
-1. AmazonEC2ContainerRegistryFullAccess
-
-2. AmazonEC2FullAccess
-3. Create ECR repo to store/save docker image
-- Save the URI: 566373416292.dkr.ecr.us-east-1.amazonaws.com/chicken
-4. Create EC2 machine (Ubuntu)
-5. Open EC2 and Install docker in EC2 Machine:
-#optinal
-
-sudo apt-get update -y
-
-sudo apt-get upgrade
-
-#required
-
-curl -fsSL https://get.docker.com -o get-docker.sh
-
-sudo sh get-docker.sh
-
-sudo usermod -aG docker ubuntu
-
-newgrp docker
-6. Configure EC2 as self-hosted runner:
-setting>actions>runner>new self hosted runner> choose os> then run command one by one
-7. Setup github secrets:
-AWS_ACCESS_KEY_ID=
-
-AWS_SECRET_ACCESS_KEY=
-
-AWS_REGION = us-east-1
-
-AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
-
-ECR_REPOSITORY_NAME = simple-app
+[License](https://codepen.io/license/pen/ExrBmBg).
